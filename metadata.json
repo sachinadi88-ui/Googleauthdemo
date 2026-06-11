@@ -1,0 +1,6 @@
+{
+  "name": "Google Profile Viewer",
+  "description": "A secure web application that allows users to authenticate using Google Sign-In and view their complete Google profile details with a modern, glassmorphic UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
